@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="screen_title_text">#FFFFFFFF</color>
+	<color name="screen_description_text">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="grey">#888888</color>
+	<color name="black">#FF000000</color>
+	<color name="light_green">#FFD2E69F</color>
+	<color name="green">#FF9BC646</color>
+	<color name="bullet_point_text">#FFFFFFFF</color>
+	<color name="score_text">#FF000000</color>
+	<color name="screen_title">#FF999999</color>
+	<color name="normal_text">#FFFFFFFF</color>
+	<color name="highlight_text">#FFFFFFFF</color>
+	<color name="red">#FFFF4848</color>
+	<color name="creme">#FFF9F7CA</color>
+	<color name="transparent_creme">#99F9F7CA</color>
+	<color name="transparent_red">#99FF0000</color>
+	<color name="transparent_green">#CC9BC646</color>
+	<color name="maroon">#FFB72502</color>
+</resources>

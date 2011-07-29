@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<style name="ScreenTitleText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+
+	<style name="ScreenDescriptionText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textStyle">italic</item>
+		<item name="android:textColor">@color/screen_description_text</item>
+	</style>
+	
+	<style name="ListViewTitleText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="ListViewText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="ListViewTitleTextRed" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/maroon</item>
+	</style>
+	
+
+	
+	<style name="ListViewButtonText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="ListViewPriceText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/green</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="TitleText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/light_green</item>
+		<item name="android:shadowColor">#88000000</item>
+		<item name="android:shadowRadius">1</item>
+		<item name="android:shadowDx">1</item>
+		<item name="android:shadowDy">1</item>
+	</style>
+	
+	<style name="SplashStatusText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">15dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="BulletPoint" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16dp</item>
+		<item name="android:textColor">@color/bullet_point_text</item>
+	</style>
+	
+	<style name="Price" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16dp</item>
+		<item name="android:textColor">@color/highlight_text</item>
+	</style>
+	
+	<style name="TotalCostText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">24dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="PricesMayVaryText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textColor">@color/white</item>
+	</style>
+		
+	<style name="OpenHoursMayVarySmallText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">10dp</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textStyle">italic</item>
+	</style>
+	
+	<style name="RatingTitle" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16dp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="Score" parent="@android:style/TextAppearance">
+		<item name="android:textSize">20dp</item>
+		<item name="android:textStyle">bold</item>
+		<!--<item name="android:background">#FF000000</item>-->
+		<item name="android:textColor">@color/score_text</item>
+	</style>
+	
+	<style name="ScoreLite" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/score_text</item>
+	</style>
+	
+	<style name="ScoreDetail" parent="@android:style/TextAppearance">
+		<item name="android:textSize">8dp</item>
+		<item name="android:textColor">@color/green</item>
+	</style>
+	
+
+	
+	<style name="DialogLabel" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/light_green</item>
+	</style>
+	
+	<style name="TitleHighlightText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/highlight_text</item>
+	</style>
+	
+	<style name="HighlightText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textColor">@color/highlight_text</item>
+	</style>
+	
+	<style name="QuantityText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/green</item>
+	</style>
+	
+	<style name="DistanceText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/green</item>
+	</style>
+	
+	<style name="DistanceDetailText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">8dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="PizzaToppingTitle" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18dp</item>
+		<item name="android:textColor">@color/normal_text</item>
+	</style>
+	
+	<style name="TimestampText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16dp</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="ToppingsColumnHeaders" parent="@android:style/TextAppearance">
+		<item name="android:textSize">10dp</item>
+		<item name="android:textColor">@color/white</item>
+	</style>
+	
+
+	
+	<style name="LaunchTickerText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14dp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+	
+	<style name="LogoVersionText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">12dp</item>
+		<item name="android:textColor">@color/grey</item>
+	</style>
+	
+	<!-- <style name="CustomDialogTheme" parent="@android:style/Theme.Dialog">
+		<item name="android:windowBackground">@drawable/screen_bg</item>
+	</style>-->
+</resources>

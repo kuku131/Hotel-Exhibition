@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="40dp"
+	android:background="@drawable/screen_title_background_repeat"
+	>
+	
+    
+	<TextView
+		android:layout_width="fill_parent"
+		android:layout_height="40dp"
+		
+		android:layout_weight="1"
+		android:textSize="20dip"
+		android:textColor="#FF000000"
+		android:gravity="left"
+		android:layout_marginTop="6dp"
+		android:text="Advertising"
+		/>
+</LinearLayout>
